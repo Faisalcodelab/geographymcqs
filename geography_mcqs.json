@@ -1,0 +1,1752 @@
+{
+    "geography_mcqs": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["London", "Paris", "Berlin", "Madrid"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": ["China", "Japan", "India", "South Korea"],
+        "answer": "Japan"
+      },
+      {
+        "question": "Which is the longest river in the world?",
+        "options": ["Nile", "Amazon", "Mississippi", "Yangtze"],
+        "answer": "Nile"
+      },
+      {
+        "question": "Which desert is the largest in the world?",
+        "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Kalahari Desert"],
+        "answer": "Sahara Desert"
+      },
+      {
+        "question": "Which ocean is the largest?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean"
+      },
+      {
+        "question": "Which is the highest mountain in the world?",
+        "options": ["Mount Kilimanjaro", "Mount Everest", "Mount McKinley", "Mount Elbrus"],
+        "answer": "Mount Everest"
+      },
+      {
+        "question": "What is the largest country by land area?",
+        "options": ["Russia", "Canada", "China", "United States"],
+        "answer": "Russia"
+      },
+      {
+        "question": "Which city is located on two continents?",
+        "options": ["Istanbul", "Moscow", "Cairo", "Athens"],
+        "answer": "Istanbul"
+      },
+      {
+        "question": "Which country is known as the 'Land of the Midnight Sun'?",
+        "options": ["Sweden", "Norway", "Finland", "Iceland"],
+        "answer": "Norway"
+      },
+      {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Brisbane", "Canberra"],
+        "answer": "Canberra"
+      },
+      {
+        "question": "Which is the smallest ocean in the world?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Southern Ocean"],
+        "answer": "Arctic Ocean"
+      },
+      {
+        "question": "Which is the driest place on Earth?",
+        "options": ["Atacama Desert", "Sahara Desert", "Antarctica", "Death Valley"],
+        "answer": "Atacama Desert"
+      },
+      {
+        "question": "Which continent is known as the 'Dark Continent'?",
+        "options": ["Europe", "Asia", "Africa", "South America"],
+        "answer": "Africa"
+      },
+      {
+        "question": "What is the largest island in the world?",
+        "options": ["Greenland", "Australia", "New Guinea", "Borneo"],
+        "answer": "Greenland"
+      },
+      {
+        "question": "What is the capital of Brazil?",
+        "options": ["Rio de Janeiro", "Brasília", "São Paulo", "Salvador"],
+        "answer": "Brasília"
+      },
+      {
+        "question": "Which country is known as the 'Roof of the World'?",
+        "options": ["Nepal", "China", "India", "Tibet"],
+        "answer": "Tibet"
+      },
+      {
+        "question": "Where is the Great Barrier Reef located?",
+        "options": ["Australia", "Hawaii", "Belize", "Philippines"],
+        "answer": "Australia"
+      },
+      {
+        "question": "What is the capital of Canada?",
+        "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+        "answer": "Ottawa"
+      },
+      {
+        "question": "Which river is the longest in South America?",
+        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        "answer": "Amazon"
+      },
+      {
+        "question": "What is the tallest waterfall in the world?",
+        "options": ["Niagara Falls", "Victoria Falls", "Angel Falls", "Iguazu Falls"],
+        "answer": "Angel Falls"
+      },
+      {
+        "question": "Which is the smallest country in the world?",
+        "options": ["Monaco", "Nauru", "Maldives", "Vatican City"],
+        "answer": "Vatican City"
+      },
+      {
+        "question": "Where is Mount Vesuvius located?",
+        "options": ["Italy", "Greece", "Turkey", "Spain"],
+        "answer": "Italy"
+      },
+      {
+        "question": "Which African country is known as the 'Pearl of Africa'?",
+        "options": ["Kenya", "Rwanda", "Uganda", "Tanzania"],
+        "answer": "Uganda"
+      },
+      {
+        "question": "What is the capital of South Africa?",
+        "options": ["Cape Town", "Johannesburg", "Pretoria", "Durban"],
+        "answer": "Pretoria"
+      },
+      {
+        "question": "Which is the longest mountain range in the world?",
+        "options": ["Andes", "Himalayas", "Rockies", "Alps"],
+        "answer": "Andes"
+      },
+      {
+        "question": "Where is the Colosseum located?",
+        "options": ["Rome, Italy", "Athens, Greece", "Paris, France", "Barcelona, Spain"],
+        "answer": "Rome, Italy"
+      },
+      {
+        "question": "What is the capital of Argentina?",
+        "options": ["Buenos Aires", "Santiago", "Lima", "Bogotá"],
+        "answer": "Buenos Aires"
+      },
+      {
+        "question": "Which is the largest hot desert in the world?",
+        "options": ["Sahara Desert", "Gobi Desert", "Kalahari Desert", "Atacama Desert"],
+        "answer": "Sahara Desert"
+      },
+      {
+        "question": "Where is the Panama Canal located?",
+        "options": ["Africa", "Asia", "North America", "South America"],
+        "answer": "North America"
+      },
+      {
+        "question": "What is the capital of Spain?",
+        "options": ["Barcelona", "Madrid", "Valencia", "Seville"],
+        "answer": "Madrid"
+      },
+      {
+        "question": "Which is the deepest ocean in the world?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean"
+      },
+      {
+        "question": "Where is the Eiffel Tower located?",
+        "options": ["London, England", "Paris, France", "Rome, Italy", "New York City, USA"],
+        "answer": "Paris, France"
+      },
+      {
+        "question": "Which is the highest waterfall in the world?",
+        "options": ["Niagara Falls", "Victoria Falls", "Angel Falls", "Iguazu Falls"],
+        "answer": "Angel Falls"
+      },
+      {
+        "question": "What is the capital of China?",
+        "options": ["Beijing", "Shanghai", "Hong Kong", "Guangzhou"],
+        "answer": "Beijing"
+      },
+      {
+        "question": "Which is the largest lake in Africa?",
+        "options": ["Lake Victoria", "Lake Tanganyika", "Lake Malawi", "Lake Chad"],
+        "answer": "Lake Victoria"
+      },
+      {
+        "question": "Where is the Great Wall of China located?",
+        "options": ["China", "Japan", "India", "Korea"],
+        "answer": "China"
+      },
+      {
+        "question": "What is the capital of Russia?",
+        "options": ["St. Petersburg", "Moscow", "Kiev", "Novosibirsk"],
+        "answer": "Moscow"
+      },
+      {
+        "question": "Which is the smallest continent in the world?",
+        "options": ["Asia", "Africa", "Australia", "Europe"],
+        "answer": "Australia"
+      },
+      {
+        "question": "What is the capital of Turkey?",
+        "options": ["Istanbul", "Ankara", "Izmir", "Bursa"],
+        "answer": "Ankara"
+      },
+      {
+        "question": "Which is the only sea without any coast?",
+        "options": ["Mediterranean Sea", "Baltic Sea", "Sargasso Sea", "Sargasso Sea"],
+        "answer": "Sargasso Sea"
+      },
+      {
+        "question": "What is the currency of Japan?",
+        "options": ["Yen", "Won", "Dollar", "Euro"],
+        "answer": "Yen"
+      },
+      {
+        "question": "Which is the largest island in Europe?",
+        "options": ["Ireland", "Great Britain", "Iceland", "Greenland"],
+        "answer": "Great Britain"
+      },
+      {
+        "question": "What is the capital of Italy?",
+        "options": ["Milan", "Rome", "Naples", "Venice"],
+        "answer": "Rome"
+      },
+      {
+        "question": "Where is the Forbidden City located?",
+        "options": ["Tokyo, Japan", "Beijing, China", "Seoul, South Korea", "Hanoi, Vietnam"],
+        "answer": "Beijing, China"
+      },
+      {
+        "question": "Which is the largest delta in the world?",
+        "options": ["Ganges Delta", "Nile Delta", "Amazon Delta", "Mekong Delta"],
+        "answer": "Ganges Delta"
+      },
+      {
+        "question": "What is the capital of Saudi Arabia?",
+        "options": ["Dubai", "Riyadh", "Mecca", "Jeddah"],
+        "answer": "Riyadh"
+      },
+      {
+        "question": "Where is Machu Picchu located?",
+        "options": ["Peru", "Chile", "Ecuador", "Bolivia"],
+        "answer": "Peru"
+      },
+      {
+        "question": "Which is the largest bay in the world?",
+        "options": ["Hudson Bay", "Bay of Bengal", "Gulf of Mexico", "Biscay Bay"],
+        "answer": "Hudson Bay"
+      },
+      {
+        "question": "What is the highest active volcano in Europe?",
+        "options": ["Mount Etna", "Mount Vesuvius", "Mount Stromboli", "Mount Pelée"],
+        "answer": "Mount Etna"
+      },
+      {
+        "question": "Where is the Sahara Desert located?",
+        "options": ["South America", "Africa", "Asia", "Australia"],
+        "answer": "Africa"
+      },
+      {
+        "question": "What is the capital of Egypt?",
+        "options": ["Cairo", "Alexandria", "Luxor", "Aswan"],
+        "answer": "Cairo"
+      },
+      {
+        "question": "Which is the largest river in Europe?",
+        "options": ["Danube", "Volga", "Rhine", "Loire"],
+        "answer": "Volga"
+      },
+      {
+        "question": "What is the currency of India?",
+        "options": ["Rupee", "Ruble", "Dinar", "Peso"],
+        "answer": "Rupee"
+      },
+      {
+        "question": "Where is the Sahara Desert located?",
+        "options": ["South America", "Africa", "Asia", "Australia"],
+        "answer": "Africa"
+      },
+      {
+        "question": "What is the capital of Egypt?",
+        "options": ["Cairo", "Alexandria", "Luxor", "Aswan"],
+        "answer": "Cairo"
+      },
+      {
+        "question": "Which is the largest river in Europe?",
+        "options": ["Danube", "Volga", "Rhine", "Loire"],
+        "answer": "Volga"
+      },
+      {
+        "question": "What is the currency of India?",
+        "options": ["Rupee", "Ruble", "Dinar", "Peso"],
+        "answer": "Rupee"
+      },
+      {
+        "question": "What is the capital of Pakistan?",
+        "options": ["Lahore", "Karachi", "Islamabad", "Peshawar"],
+        "answer": "Islamabad"
+      },
+      {
+        "question": "Which is the highest mountain in Africa?",
+        "options": ["Mount Kilimanjaro", "Mount Kenya", "Mount Elgon", "Mount Stanley"],
+        "answer": "Mount Kilimanjaro"
+      },
+      {
+        "question": "Where is the Dead Sea located?",
+        "options": ["Israel", "Jordan", "Egypt", "Palestine"],
+        "answer": "Israel"
+      },
+      {
+        "question": "What is the capital of South Korea?",
+        "options": ["Seoul", "Busan", "Incheon", "Daegu"],
+        "answer": "Seoul"
+      },
+      {
+        "question": "Which is the largest island in the Mediterranean Sea?",
+        "options": ["Sardinia", "Sicily", "Cyprus", "Crete"],
+        "answer": "Sicily"
+      },
+      {
+        "question": "What is the capital of Bangladesh?",
+        "options": ["Dhaka", "Chittagong", "Khulna", "Rajshahi"],
+        "answer": "Dhaka"
+      },
+      {
+        "question": "Which is the smallest continent in the world?",
+        "options": ["Asia", "Africa", "Australia", "Europe"],
+        "answer": "Australia"
+      },
+      {
+        "question": "What is the currency of Indonesia?",
+        "options": ["Dollar", "Rupiah", "Ringgit", "Yen"],
+        "answer": "Rupiah"
+      },
+      {
+        "question": "Where is Mount Fuji located?",
+        "options": ["China", "Japan", "India", "South Korea"],
+        "answer": "Japan"
+      },
+      {
+        "question": "What is the capital of Vietnam?",
+        "options": ["Hanoi", "Ho Chi Minh City", "Da Nang", "Hai Phong"],
+        "answer": "Hanoi"
+      },
+      {
+        "question": "Which is the longest river in Asia?",
+        "options": ["Yangtze", "Mekong", "Ganges", "Yellow River"],
+        "answer": "Yangtze"
+      },
+      {
+        "question": "What is the currency of South Africa?",
+        "options": ["Rand", "Peso", "Dollar", "Euro"],
+        "answer": "Rand"
+      },
+      {
+        "question": "Where is the Amazon Rainforest located?",
+        "options": ["Africa", "Asia", "North America", "South America"],
+        "answer": "South America"
+      },
+      {
+        "question": "Which is the largest river in India?",
+        "options": ["Ganges", "Yamuna", "Brahmaputra", "Indus"],
+        "answer": "Ganges"
+      },
+      {
+        "question": "What is the capital of Iran?",
+        "options": ["Tehran", "Isfahan", "Shiraz", "Tabriz"],
+        "answer": "Tehran"
+      },
+      {
+        "question": "Which is the largest city in Africa by population?",
+        "options": ["Lagos", "Cairo", "Kinshasa", "Johannesburg"],
+        "answer": "Lagos"
+      },
+      {
+        "question": "What is the capital of Nigeria?",
+        "options": ["Abuja", "Lagos", "Kano", "Ibadan"],
+        "answer": "Abuja"
+      },
+      {
+        "question": "Which is the highest mountain in South America?",
+        "options": ["Mount Aconcagua", "Mount Chimborazo", "Mount Huascarán", "Mount Illimani"],
+        "answer": "Mount Aconcagua"
+      },
+      {
+        "question": "What is the capital of Chile?",
+        "options": ["Santiago", "Valparaíso", "La Serena", "Concepción"],
+        "answer": "Santiago"
+      },
+      {
+        "question": "Which is the largest island in the Caribbean?",
+        "options": ["Cuba", "Jamaica", "Haiti", "Dominican Republic"],
+        "answer": "Cuba"
+      },
+      {
+        "question": "What is the currency of Brazil?",
+        "options": ["Real", "Peso", "Dollar", "Euro"],
+        "answer": "Real"
+      },
+      {
+        "question": "Where is the Great Rift Valley located?",
+        "options": ["Africa", "Asia", "North America", "South America"],
+        "answer": "Africa"
+      },
+      {
+        "question": "Which is the largest river in Australia?",
+        "options": ["Murray", "Darling", "Fitzroy", "Murrumbidgee"],
+        "answer": "Murray"
+      },
+      {
+        "question": "What is the capital of Venezuela?",
+        "options": ["Caracas", "Maracaibo", "Valencia", "Barquisimeto"],
+        "answer": "Caracas"
+      },
+      {
+        "question": "Which is the largest city in the world by population?",
+        "options": ["Beijing", "Tokyo", "Shanghai", "Delhi"],
+        "answer": "Tokyo"
+      },
+      {
+        "question": "What is the capital of the United Kingdom?",
+        "options": ["London", "Manchester", "Liverpool", "Birmingham"],
+        "answer": "London"
+      },
+      {
+        "question": "Which is the largest island in the Indian Ocean?",
+        "options": ["Madagascar", "Sri Lanka", "Sumatra", "Java"],
+        "answer": "Madagascar"
+      },
+      {
+        "question": "What is the currency of South Korea?",
+        "options": ["Won", "Yen", "Dollar", "Euro"],
+        "answer": "Won"
+      },
+      {
+        "question": "Where is the Danube River located?",
+        "options": ["Europe", "Africa", "Asia", "North America"],
+        "answer": "Europe"
+      },
+      {
+        "question": "Which is the largest bay in the world?",
+        "options": ["Hudson Bay", "Bay of Bengal", "Gulf of Mexico", "Biscay Bay"],
+        "answer": "Hudson Bay"
+      },
+      {
+        "question": "What is the capital of Malaysia?",
+        "options": ["Kuala Lumpur", "Penang", "Johor Bahru", "Ipoh"],
+        "answer": "Kuala Lumpur"
+      },
+      {
+        "question": "Which is the largest river in Canada?",
+        "options": ["Mackenzie", "Yukon", "St. Lawrence", "Columbia"],
+        "answer": "Mackenzie"
+      },
+      {
+        "question": "Where is the Himalayas mountain range located?",
+        "options": ["India", "China", "Nepal", "Bhutan"],
+        "answer": "India"
+      },
+      {
+        "question": "What is the capital of Afghanistan?",
+        "options": ["Kabul", "Kandahar", "Herat", "Mazar-i-Sharif"],
+        "answer": "Kabul"
+      },
+      {
+        "question": "What is the capital city of France?",
+        "options": ["Paris", "Madrid", "Berlin", "Rome"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+        "options": ["Sweden", "Finland", "Norway", "Denmark"],
+        "answer": "Finland"
+      },
+      {
+        "question": "Which river is the longest in Europe?",
+        "options": ["Danube", "Volga", "Rhine", "Seine"],
+        "answer": "Volga"
+      },
+      {
+        "question": "Which European country is known as the 'Emerald Isle'?",
+        "options": ["Ireland", "Scotland", "Wales", "England"],
+        "answer": "Ireland"
+      },
+      {
+        "question": "Which mountain range forms a natural border between Spain and France?",
+        "options": ["Pyrenees", "Alps", "Carpathians", "Apennines"],
+        "answer": "Pyrenees"
+      },
+      {
+        "question": "What is the largest country in Europe by land area?",
+        "options": ["Russia", "Germany", "France", "Spain"],
+        "answer": "Russia"
+      },
+      {
+        "question": "Which city is considered the cultural capital of Poland?",
+        "options": ["Krakow", "Warsaw", "Gdansk", "Wroclaw"],
+        "answer": "Krakow"
+      },
+      {
+        "question": "What is the currency of Switzerland?",
+        "options": ["Euro", "Pound Sterling", "Swiss Franc", "Krone"],
+        "answer": "Swiss Franc"
+      },
+      {
+        "question": "Which country is known for its tulips and windmills?",
+        "options": ["Belgium", "Netherlands", "Luxembourg", "Austria"],
+        "answer": "Netherlands"
+      },
+      {
+        "question": "Which European city is divided into two halves by the Danube River?",
+        "options": ["Vienna", "Budapest", "Prague", "Bratislava"],
+        "answer": "Budapest"
+      },
+      {
+        "question": "Which country has the longest coastline in Europe?",
+        "options": ["Norway", "France", "Spain", "Italy"],
+        "answer": "Norway"
+      },
+      {
+        "question": "What is the smallest country in Europe?",
+        "options": ["Monaco", "Malta", "Liechtenstein", "Andorra"],
+        "answer": "Vatican City"
+      },
+      {
+        "question": "Which European country is called Suomi by its inhabitants?",
+        "options": ["Sweden", "Finland", "Norway", "Denmark"],
+        "answer": "Finland"
+      },
+      {
+        "question": "Which city is known as the 'City of Love'?",
+        "options": ["Rome", "Paris", "Venice", "Florence"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Which country is located at the crossroads of Europe and Asia?",
+        "options": ["Russia", "Turkey", "Greece", "Georgia"],
+        "answer": "Turkey"
+      },
+      {
+        "question": "Which European country is famous for its fjords?",
+        "options": ["Iceland", "Norway", "Sweden", "Denmark"],
+        "answer": "Norway"
+      },
+      {
+        "question": "Which river flows through both Germany and Austria?",
+        "options": ["Rhine", "Elbe", "Danube", "Main"],
+        "answer": "Danube"
+      },
+      {
+        "question": "What is the largest island in Europe?",
+        "options": ["Ireland", "Great Britain", "Sicily", "Sardinia"],
+        "answer": "Great Britain"
+      },
+      {
+        "question": "Which European country is known for its fjords?",
+        "options": ["Iceland", "Norway", "Sweden", "Denmark"],
+        "answer": "Norway"
+      },
+      {
+        "question": "Which country is the birthplace of democracy?",
+        "options": ["Italy", "Greece", "France", "England"],
+        "answer": "Greece"
+      },
+      {
+        "question": "Which city is famous for its Oktoberfest celebration?",
+        "options": ["Berlin", "Vienna", "Munich", "Hamburg"],
+        "answer": "Munich"
+      },
+      {
+        "question": "Which country is located on the Iberian Peninsula?",
+        "options": ["Spain", "Italy", "Greece", "Portugal"],
+        "answer": "Spain"
+      },
+      {
+        "question": "Which river flows through the city of Paris?",
+        "options": ["Thames", "Danube", "Seine", "Rhine"],
+        "answer": "Seine"
+      },
+      {
+        "question": "What is the largest city in Europe by population?",
+        "options": ["Istanbul", "Moscow", "London", "Paris"],
+        "answer": "Istanbul"
+      },
+      {
+        "question": "Which country is known for its famous wooden shoes called 'clogs'?",
+        "options": ["Belgium", "Netherlands", "Sweden", "Denmark"],
+        "answer": "Netherlands"
+      },
+      {
+        "question": "Which city is famous for its canals and gondolas?",
+        "options": ["Rome", "Paris", "Venice", "Amsterdam"],
+        "answer": "Venice"
+      },
+      {
+        "question": "Which European country is known for its delicious chocolates and waffles?",
+        "options": ["Germany", "Switzerland", "Belgium", "Austria"],
+        "answer": "Belgium"
+      },
+      {
+        "question": "What is the capital city of Italy?",
+        "options": ["Milan", "Rome", "Naples", "Florence"],
+        "answer": "Rome"
+      },
+      {
+        "question": "Which country is known for its beautiful coastline called the Amalfi Coast?",
+        "options": ["Spain", "France", "Italy", "Greece"],
+        "answer": "Italy"
+      },
+      {
+        "question": "Which country is known for its delicious paella dish?",
+        "options": ["Spain", "Portugal", "Italy", "Greece"],
+        "answer": "Spain"
+      },
+      {
+        "question": "Which European country is known as the 'Land of Fire and Ice'?",
+        "options": ["Iceland", "Norway", "Sweden", "Finland"],
+        "answer": "Iceland"
+      },
+      {
+        "question": "Which city is famous for its historical sites like the Acropolis?",
+        "options": ["Rome", "Athens", "Istanbul", "Barcelona"],
+        "answer": "Athens"
+      },
+      {
+        "question": "Which country is known for its delicious pasta and pizza?",
+        "options": ["Spain", "France", "Italy", "Greece"],
+        "answer": "Italy"
+      },
+      {
+        "question": "What is the highest mountain in Europe?",
+        "options": ["Mont Blanc", "Mount Elbrus", "Matterhorn", "Mount Olympus"],
+        "answer": "Mount Elbrus"
+      },
+      {
+        "question": "Which country is famous for its scenic fjords and trolls?",
+        "options": ["Sweden", "Norway", "Finland", "Denmark"],
+        "answer": "Norway"
+      },
+      {
+        "question": "Which city is famous for its beautiful canals and Anne Frank House?",
+        "options": ["Copenhagen", "Amsterdam", "Brussels", "Rotterdam"],
+        "answer": "Amsterdam"
+      },
+      {
+        "question": "Which European country is known for its delicious 'souvlaki' and 'gyros'?",
+        "options": ["Italy", "Spain", "Greece", "Portugal"],
+        "answer": "Greece"
+      },
+      {
+        "question": "Which country is known for its delicious fondue and Swiss watches?",
+        "options": ["France", "Italy", "Switzerland", "Germany"],
+        "answer": "Switzerland"
+      },
+      {
+        "question": "Which river forms part of the border between Bulgaria and Romania?",
+        "options": ["Rhine", "Danube", "Seine", "Thames"],
+        "answer": "Danube"
+      },
+      {
+        "question": "Which European country is known for its stunning beaches in Algarve?",
+        "options": ["Greece", "Italy", "Portugal", "Spain"],
+        "answer": "Portugal"
+      },
+      {
+        "question": "Which city is known as the 'Pearl of the Danube'?",
+        "options": ["Vienna", "Budapest", "Prague", "Bratislava"],
+        "answer": "Budapest"
+      },
+      {
+        "question": "Which country is known for its famous 'Matryoshka' nesting dolls?",
+        "options": ["Russia", "Poland", "Czech Republic", "Ukraine"],
+        "answer": "Russia"
+      },
+      {
+        "question": "Which country is known for its beautiful lavender fields in Provence?",
+        "options": ["Italy", "France", "Spain", "Greece"],
+        "answer": "France"
+      },
+      {
+        "question": "Which European city is famous for its historic Charles Bridge?",
+        "options": ["Berlin", "Vienna", "Prague", "Bratislava"],
+        "answer": "Prague"
+      },
+      {
+        "question": "Which country is known for its delicious 'Wiener Schnitzel' and 'Apfelstrudel'?",
+        "options": ["Austria", "Germany", "Switzerland", "Poland"],
+        "answer": "Austria"
+      },
+      {
+        "question": "Which city is famous for its iconic Brandenburg Gate and Berlin Wall?",
+        "options": ["Paris", "Berlin", "Vienna", "Amsterdam"],
+        "answer": "Berlin"
+      },
+      {
+        "question": "Which European country is known as the 'Cradle of Western Civilization'?",
+        "options": ["Italy", "Greece", "France", "Spain"],
+        "answer": "Greece"
+      },
+      {
+        "question": "Which country is known for its stunning Amalfi Coast and ancient ruins of Pompeii?",
+        "options": ["Greece", "Italy", "Spain", "France"],
+        "answer": "Italy"
+      },
+      {
+        "question": "Which city is famous for its stunning Sagrada Familia and Park Güell?",
+        "options": ["Madrid", "Barcelona", "Valencia", "Seville"],
+        "answer": "Barcelona"
+      },
+      {
+        "question": "Which European country is known for its delicious 'Kebab' and 'Baklava'?",
+        "options": ["Greece", "Turkey", "Spain", "Italy"],
+        "answer": "Turkey"
+      },
+      {
+        "question": "Which country is known for its famous 'Neuschwanstein Castle'?",
+        "options": ["Austria", "Germany", "Switzerland", "Poland"],
+        "answer": "Germany"
+      },
+      {
+        "question": "Which European city is famous for its stunning St. Basil's Cathedral?",
+        "options": ["Moscow", "St. Petersburg", "Kiev", "Warsaw"],
+        "answer": "Moscow"
+      },
+      {
+        "question": "Which country is known for its stunning Alhambra palace and Generalife gardens?",
+        "options": ["Italy", "Spain", "Greece", "Portugal"],
+        "answer": "Spain"
+      },
+      {
+        "question": "Which city is famous for its stunning St. Mark's Square and Basilica?",
+        "options": ["Florence", "Rome", "Venice", "Milan"],
+        "answer": "Venice"
+      },
+      {
+        "question": "Which European country is known for its stunning fjords and 'Aurora Borealis'?",
+        "options": ["Sweden", "Norway", "Finland", "Denmark"],
+        "answer": "Norway"
+      },
+      {
+        "question": "Which country is known for its stunning 'Plitvice Lakes National Park'?",
+        "options": ["Greece", "Italy", "Croatia", "Spain"],
+        "answer": "Croatia"
+      },
+      {
+        "question": "Which city is famous for its stunning Charles Bridge and Prague Castle?",
+        "options": ["Warsaw", "Prague", "Bratislava", "Budapest"],
+        "answer": "Prague"
+      },
+      {
+        "question": "Which European country is known for its delicious 'Pierogi' dumplings?",
+        "options": ["Italy", "Poland", "Greece", "Portugal"],
+        "answer": "Poland"
+      },
+      {
+        "question": "Which country is known for its stunning 'Plitvice Lakes National Park'?",
+        "options": ["Greece", "Italy", "Croatia", "Spain"],
+        "answer": "Croatia"
+      },
+      {
+        "question": "Which city is famous for its stunning 'Fisherman's Bastion' and 'Chain Bridge'?",
+        "options": ["Vienna", "Budapest", "Prague", "Bratislava"],
+        "answer": "Budapest"
+      },
+      {
+        "question": "Which European country is known for its stunning 'Northern Lights'?",
+        "options": ["Sweden", "Norway", "Finland", "Denmark"],
+        "answer": "Norway"
+      },
+      {
+        "question": "Which country is known for its stunning 'Plitvice Lakes National Park'?",
+        "options": ["Greece", "Italy", "Croatia", "Spain"],
+        "answer": "Croatia"
+      },
+      {
+        "question": "Which city is famous for its stunning 'Fisherman's Bastion' and 'Chain Bridge'?",
+        "options": ["Vienna", "Budapest", "Prague", "Bratislava"],
+        "answer": "Budapest"
+      },
+      {
+        "question": "Which European country is known for its stunning 'Northern Lights'?",
+        "options": ["Sweden", "Norway", "Finland", "Denmark"],
+        "answer": "Norway"
+      },
+      {
+        "question": "Which country is known for its stunning 'Plitvice Lakes National Park'?",
+        "options": ["Greece", "Italy", "Croatia", "Spain"],
+        "answer": "Croatia"
+      },
+      {
+        "question": "Which city is famous for its stunning 'Fisherman's Bastion' and 'Chain Bridge'?",
+        "options": ["Vienna", "Budapest", "Prague", "Bratislava"],
+        "answer": "Budapest"
+      },
+      {
+        "question": "Which European country is known for its stunning 'Northern Lights'?",
+        "options": ["Sweden", "Norway", "Finland", "Denmark"],
+        "answer": "Norway"
+      },
+      {
+        "question": "Which country is known for its stunning 'Plitvice Lakes National Park'?",
+        "options": ["Greece", "Italy", "Croatia", "Spain"],
+        "answer": "Croatia"
+      },
+      {
+        "question": "Which city is famous for its stunning 'Fisherman's Bastion' and 'Chain Bridge'?",
+        "options": ["Vienna", "Budapest", "Prague", "Bratislava"],
+        "answer": "Budapest"
+      },
+      {
+        "question": "Which European country is known for its stunning 'Northern Lights'?",
+        "options": ["Sweden", "Norway", "Finland", "Denmark"],
+        "answer": "Norway"
+      },
+      {
+        "question": "What is the capital city of Egypt?",
+        "options": ["Cairo", "Lagos", "Nairobi", "Addis Ababa"],
+        "answer": "Cairo"
+      },
+      {
+        "question": "Which country is known as the 'Rainbow Nation'?",
+        "options": ["Nigeria", "South Africa", "Kenya", "Ghana"],
+        "answer": "South Africa"
+      },
+      {
+        "question": "Which river is the longest in Africa?",
+        "options": ["Nile", "Congo", "Niger", "Zambezi"],
+        "answer": "Nile"
+      },
+      {
+        "question": "Which African country is known as the 'Giant of Africa'?",
+        "options": ["Nigeria", "Egypt", "Ethiopia", "South Africa"],
+        "answer": "Nigeria"
+      },
+      {
+        "question": "Which African country is famous for its annual wildebeest migration?",
+        "options": ["Kenya", "Tanzania", "Uganda", "Botswana"],
+        "answer": "Kenya"
+      },
+      {
+        "question": "What is the largest desert in Africa?",
+        "options": ["Kalahari Desert", "Sahara Desert", "Namib Desert", "Libyan Desert"],
+        "answer": "Sahara Desert"
+      },
+      {
+        "question": "Which country is known for its ancient city of Timbuktu?",
+        "options": ["Nigeria", "Mali", "Senegal", "Ghana"],
+        "answer": "Mali"
+      },
+      {
+        "question": "What is the capital city of Nigeria?",
+        "options": ["Lagos", "Abuja", "Accra", "Nairobi"],
+        "answer": "Abuja"
+      },
+      {
+        "question": "Which African country is famous for its Maasai Mara National Reserve?",
+        "options": ["Kenya", "Tanzania", "Uganda", "Rwanda"],
+        "answer": "Kenya"
+      },
+      {
+        "question": "Which African country is known as the 'Pearl of Africa'?",
+        "options": ["Kenya", "Uganda", "Tanzania", "Rwanda"],
+        "answer": "Uganda"
+      },
+      {
+        "question": "Which mountain is the highest in Africa?",
+        "options": ["Mount Kilimanjaro", "Mount Kenya", "Mount Elgon", "Mount Ruwenzori"],
+        "answer": "Mount Kilimanjaro"
+      },
+      {
+        "question": "What is the largest lake in Africa?",
+        "options": ["Lake Victoria", "Lake Tanganyika", "Lake Malawi", "Lake Chad"],
+        "answer": "Lake Victoria"
+      },
+      {
+        "question": "Which country is known for its Victoria Falls?",
+        "options": ["Zimbabwe", "Zambia", "Botswana", "South Africa"],
+        "answer": "Zimbabwe"
+      },
+      {
+        "question": "What is the currency of South Africa?",
+        "options": ["Rand", "Naira", "Shilling", "Cedi"],
+        "answer": "Rand"
+      },
+      {
+        "question": "Which African country is known for its Great Mosque of Djenné?",
+        "options": ["Mali", "Niger", "Chad", "Sudan"],
+        "answer": "Mali"
+      },
+      {
+        "question": "What is the capital city of Kenya?",
+        "options": ["Nairobi", "Lagos", "Cairo", "Kampala"],
+        "answer": "Nairobi"
+      },
+      {
+        "question": "Which African country is famous for its Serengeti National Park?",
+        "options": ["Kenya", "Tanzania", "Uganda", "Rwanda"],
+        "answer": "Tanzania"
+      },
+      {
+        "question": "Which river forms the border between Zambia and Zimbabwe?",
+        "options": ["Nile", "Congo", "Zambezi", "Niger"],
+        "answer": "Zambezi"
+      },
+      {
+        "question": "What is the capital city of Ghana?",
+        "options": ["Accra", "Lagos", "Abuja", "Kampala"],
+        "answer": "Accra"
+      },
+      {
+        "question": "Which African country is known for its Table Mountain?",
+        "options": ["South Africa", "Namibia", "Botswana", "Zimbabwe"],
+        "answer": "South Africa"
+      },
+      {
+        "question": "Which African country is known for its Kilimanjaro National Park?",
+        "options": ["Kenya", "Tanzania", "Uganda", "Rwanda"],
+        "answer": "Tanzania"
+      },
+      {
+        "question": "Which country is known for its Gorongosa National Park?",
+        "options": ["Zimbabwe", "Zambia", "Mozambique", "Botswana"],
+        "answer": "Mozambique"
+      },
+      {
+        "question": "What is the currency of Egypt?",
+        "options": ["Pound", "Dinar", "Birr", "Cedi"],
+        "answer": "Pound"
+      },
+      {
+        "question": "Which African country is known as the 'Land of a Thousand Hills'?",
+        "options": ["Kenya", "Uganda", "Rwanda", "Tanzania"],
+        "answer": "Rwanda"
+      },
+      {
+        "question": "What is the capital city of Ethiopia?",
+        "options": ["Addis Ababa", "Nairobi", "Kampala", "Dar es Salaam"],
+        "answer": "Addis Ababa"
+      },
+      {
+        "question": "Which African country is known for its Virunga National Park?",
+        "options": ["Kenya", "Tanzania", "Uganda", "Democratic Republic of the Congo"],
+        "answer": "Democratic Republic of the Congo"
+      },
+      {
+        "question": "What is the largest island in Africa?",
+        "options": ["Madagascar", "Seychelles", "Mauritius", "Zanzibar"],
+        "answer": "Madagascar"
+      },
+      {
+        "question": "Which African country is known as the 'Land of Pharaohs'?",
+        "options": ["Nigeria", "Egypt", "Ethiopia", "Sudan"],
+        "answer": "Egypt"
+      },
+      {
+        "question": "What is the currency of Nigeria?",
+        "options": ["Naira", "Rand", "Pound", "Cedi"],
+        "answer": "Naira"
+      },
+      {
+        "question": "Which African country is known for its Sahara Desert?",
+        "options": ["Nigeria", "Egypt", "Libya", "Sudan"],
+        "answer": "Libya"
+      },
+      {
+        "question": "Which African country is known for its 'Big Five' safari animals?",
+        "options": ["Kenya", "Tanzania", "South Africa", "Botswana"],
+        "answer": "South Africa"
+      },
+      {
+        "question": "What is the capital city of Tanzania?",
+        "options": ["Dodoma", "Dar es Salaam", "Nairobi", "Kampala"],
+        "answer": "Dodoma"
+      },
+      {
+        "question": "Which African country is known for its Okavango Delta?",
+        "options": ["Botswana", "Zambia", "Namibia", "Zimbabwe"],
+        "answer": "Botswana"
+      },
+      {
+        "question": "What is the capital city of Uganda?",
+        "options": ["Kampala", "Nairobi", "Dar es Salaam", "Addis Ababa"],
+        "answer": "Kampala"
+      },
+      {
+        "question": "Which African country is known for its Lake Malawi?",
+        "options": ["Malawi", "Tanzania", "Zambia", "Mozambique"],
+        "answer": "Malawi"
+      },
+      {
+        "question": "Which African country is known as the 'Garden of Eden'?",
+        "options": ["Kenya", "Tanzania", "Uganda", "Seychelles"],
+        "answer": "Seychelles"
+      },
+      {
+        "question": "What is the currency of Kenya?",
+        "options": ["Shilling", "Naira", "Rand", "Cedi"],
+        "answer": "Shilling"
+      },
+      {
+        "question": "Which African country is known for its Mount Nyiragongo?",
+        "options": ["Kenya", "Tanzania", "Uganda", "Democratic Republic of the Congo"],
+        "answer": "Democratic Republic of the Congo"
+      },
+      {
+        "question": "Which country is known for its Kruger National Park?",
+        "options": ["Kenya", "Tanzania", "South Africa", "Botswana"],
+        "answer": "South Africa"
+      },
+      {
+        "question": "What is the capital city of Algeria?",
+        "options": ["Algiers", "Cairo", "Rabat", "Tripoli"],
+        "answer": "Algiers"
+      },
+      {
+        "question": "Which African country is known for its Table Mountain?",
+        "options": ["South Africa", "Namibia", "Botswana", "Zimbabwe"],
+        "answer": "South Africa"
+      },
+      {
+        "question": "What is the largest river in West Africa?",
+        "options": ["Nile", "Niger", "Congo", "Zambezi"],
+        "answer": "Niger"
+      },
+      {
+        "question": "Which African country is known for its Kilwa Kisiwani ruins?",
+        "options": ["Kenya", "Tanzania", "Uganda", "Rwanda"],
+        "answer": "Tanzania"
+      },
+      {
+        "question": "What is the capital city of Afghanistan?",
+        "options": ["Kabul", "Kandahar", "Herat", "Mazar-i-Sharif"],
+        "answer": "Kabul"
+      },
+      {
+        "question": "Which mountain range forms part of Afghanistan's eastern border?",
+        "options": ["Himalayas", "Andes", "Hindu Kush", "Rocky Mountains"],
+        "answer": "Hindu Kush"
+      },
+      {
+        "question": "Which river is the longest in Afghanistan?",
+        "options": ["Amu Darya", "Indus", "Kabul River", "Helmand River"],
+        "answer": "Amu Darya"
+      },
+      {
+        "question": "Which desert covers much of southern Afghanistan?",
+        "options": ["Karakum Desert", "Sahara Desert", "Thar Desert", "Dasht-e Margo"],
+        "answer": "Dasht-e Margo"
+      },
+      {
+        "question": "What is the predominant religion in Afghanistan?",
+        "options": ["Buddhism", "Hinduism", "Islam", "Sikhism"],
+        "answer": "Islam"
+      },
+      {
+        "question": "What is the official language of Afghanistan?",
+        "options": ["Pashto", "Persian (Dari)", "Urdu", "Arabic"],
+        "answer": "Pashto"
+      },
+      {
+        "question": "Which country does not share a border with Afghanistan?",
+        "options": ["Pakistan", "Iran", "Tajikistan", "Turkmenistan"],
+        "answer": "Turkmenistan"
+      },
+      {
+        "question": "What is the highest peak in Afghanistan?",
+        "options": ["Mount Noshaq", "Tirich Mir", "Mount Everest", "K2"],
+        "answer": "Mount Noshaq"
+      },
+      {
+        "question": "Which ancient empire had its capital in present-day Afghanistan?",
+        "options": ["Persian Empire", "Roman Empire", "Mongol Empire", "Maurya Empire"],
+        "answer": "Persian Empire"
+      },
+      {
+        "question": "What is the currency of Afghanistan?",
+        "options": ["Afghani", "Rial", "Tenge", "Rupee"],
+        "answer": "Afghani"
+      },
+      {
+        "question": "Which of the following is NOT a province of Afghanistan?",
+        "options": ["Balochistan", "Kunar", "Kandahar", "Helmand"],
+        "answer": "Balochistan"
+      },
+      {
+        "question": "Who was the founder of the Taliban?",
+        "options": ["Mullah Omar", "Osama bin Laden", "Hamid Karzai", "Abdul Rashid Dostum"],
+        "answer": "Mullah Omar"
+      },
+      {
+        "question": "What is the approximate population of Afghanistan?",
+        "options": ["30 million", "50 million", "10 million", "80 million"],
+        "answer": "30 million"
+      },
+      {
+        "question": "Which ancient trade route passed through Afghanistan connecting China with the Mediterranean?",
+        "options": ["Silk Road", "Amber Road", "Salt Route", "Incense Route"],
+        "answer": "Silk Road"
+      },
+      {
+        "question": "Which Afghan king is known as the 'Father of the Nation'?",
+        "options": ["Ahmad Shah Durrani", "Amanullah Khan", "Mohammed Zahir Shah", "Habibullah Khan"],
+        "answer": "Ahmad Shah Durrani"
+      },
+      {
+        "question": "What is the name of the large fortified city in western Afghanistan, known as the 'City of Screams'?",
+        "options": ["Herat", "Kabul", "Kandahar", "Ghazni"],
+        "answer": "Herat"
+      },
+      {
+        "question": "Which ancient civilization flourished in what is now Afghanistan around 2000 BCE?",
+        "options": ["Indus Valley Civilization", "Sumerians", "Egyptians", "Mesopotamians"],
+        "answer": "Indus Valley Civilization"
+      },
+      {
+        "question": "Which country invaded Afghanistan in 1979, leading to the Soviet-Afghan War?",
+        "options": ["United States", "United Kingdom", "Soviet Union", "China"],
+        "answer": "Soviet Union"
+      },
+      {
+        "question": "What is the national sport of Afghanistan?",
+        "options": ["Cricket", "Soccer", "Buzkashi", "Tennis"],
+        "answer": "Buzkashi"
+      },
+      {
+        "question": "Which historical figure famously attempted to conquer Afghanistan but failed, leading to the saying, 'He who controls Afghanistan, controls Asia'?",
+        "options": ["Alexander the Great", "Genghis Khan", "Napoleon Bonaparte", "Julius Caesar"],
+        "answer": "Alexander the Great"
+      },
+      {
+        "question": "What is the literacy rate in Afghanistan?",
+        "options": ["About 30%", "About 50%", "About 70%", "About 90%"],
+        "answer": "About 30%"
+      },
+      {
+        "question": "What is the name of the traditional Afghan bread?",
+        "options": ["Naan", "Roti", "Pita", "Chapati"],
+        "answer": "Naan"
+      },
+      {
+        "question": "Which precious stone is mined in Afghanistan and is renowned for its deep blue color?",
+        "options": ["Emerald", "Ruby", "Diamond", "Lapis Lazuli"],
+        "answer": "Lapis Lazuli"
+      },
+      {
+        "question": "Who was the first female mayor of Kabul, Afghanistan?",
+        "options": ["Farkhunda Zahra Naderi", "Malalai Joya", "Habiba Sarobi", "Simin Barakzai"],
+        "answer": "Habiba Sarobi"
+      },
+      {
+        "question": "Which year did Afghanistan gain independence from British influence?",
+        "options": ["1919", "1947", "1956", "1971"],
+        "answer": "1919"
+      },
+      {
+        "question": "What is the name of the famous Buddha statues that were destroyed by the Taliban in 2001?",
+        "options": ["Bamiyan Buddhas", "Gandhara Buddhas", "Ajanta Caves Buddhas", "Borobudur Buddhas"],
+        "answer": "Bamiyan Buddhas"
+      },
+      {
+        "question": "Which famous Afghan poet is known as the 'Shakespeare of Persian literature'?",
+        "options": ["Rumi", "Hafez", "Firdausi", "Khushal Khan Khattak"],
+        "answer": "Firdausi"
+      },
+      {
+        "question": "What is the traditional Afghan headwear worn by men?",
+        "options": ["Turbans", "Kufi", "Fez", "Pakol"],
+        "answer": "Pakol"
+      },
+      {
+        "question": "Which province in Afghanistan is famous for its pomegranates?",
+        "options": ["Kandahar", "Nangarhar", "Herat", "Balkh"],
+        "answer": "Kandahar"
+      },
+      {
+        "question": "What is the name of the historic citadel in Kabul, Afghanistan?",
+        "options": ["Bala Hissar", "Qalat-i-Ghilji", "Arg-e-Shahi", "Qala-e-Bost"],
+        "answer": "Bala Hissar"
+      },
+      {
+        "question": "Which animal features on the national emblem of Afghanistan?",
+        "options": ["Lion", "Eagle", "Horse", "Snow Leopard"],
+        "answer": "Snow Leopard"
+      },
+      {
+        "question": "What is the name of the traditional Afghan dance?",
+        "options": ["Attan", "Bhangra", "Sema", "Dabke"],
+        "answer": "Attan"
+      },
+      {
+        "question": "Which famous film depicts the story of an Afghan refugee who becomes a world champion kite flyer?",
+        "options": ["The Kite Runner", "Slumdog Millionaire", "Life of Pi", "A Thousand Splendid Suns"],
+        "answer": "The Kite Runner"
+      },
+      {
+        "question": "What is the name of the Afghan dish consisting of rice with meat, carrots, and raisins?",
+        "options": ["Qabili Palau", "Kebab", "Biryani", "Mantu"],
+        "answer": "Qabili Palau"
+      },
+      {
+        "question": "Which historical figure built the Minaret of Jam in Afghanistan?",
+        "options": ["Genghis Khan", "Timur", "Babur", "Alauddin Khalji"],
+        "answer": "Genghis Khan"
+      },
+      {
+        "question": "What is the name of the famous 19th-century British military campaign in Afghanistan?",
+        "options": ["First Anglo-Afghan War", "Second Anglo-Afghan War", "Third Anglo-Afghan War", "Battle of Maiwand"],
+        "answer": "First Anglo-Afghan War"
+      },
+      {
+        "question": "Which city in Afghanistan is famous for its blue pottery?",
+        "options": ["Herat", "Kabul", "Kandahar", "Mazar-i-Sharif"],
+        "answer": "Herat"
+      },
+      {
+        "question": "What is the meaning of the word 'Afghan' in the Pashto language?",
+        "options": ["Land of Mountains", "Warrior", "Lion", "Refugee"],
+        "answer": "Warrior"
+      },
+      {
+        "question": "Which international organization was founded in 1964 to help develop Afghanistan?",
+        "options": ["World Bank", "United Nations", "European Union", "Asian Development Bank"],
+        "answer": "United Nations"
+      },
+      {
+        "question": "What is the name of the ancient city in Afghanistan that served as a center of Buddhism?",
+        "options": ["Bagram", "Kandahar", "Ghazni", "Bamiyan"],
+        "answer": "Bamiyan"
+      },
+      {
+        "question": "Which famous American author wrote the novel 'The Kite Runner'?",
+        "options": ["Khaled Hosseini", "Jhumpa Lahiri", "Arundhati Roy", "Chimamanda Ngozi Adichie"],
+        "answer": "Khaled Hosseini"
+      },
+      {
+        "question": "What is the name of the traditional Afghan musical instrument that resembles a lute?",
+        "options": ["Rabab", "Sitar", "Tabla", "Sarod"],
+        "answer": "Rabab"
+      },
+      {
+        "question": "Which city in Afghanistan is known as the 'City of Light'?",
+        "options": ["Kabul", "Kandahar", "Herat", "Mazar-i-Sharif"],
+        "answer": "Mazar-i-Sharif"
+      },
+      {
+        "question": "Who was the first woman to be appointed to the Supreme Court of Afghanistan?",
+        "options": ["Anisa Rassouli", "Habiba Sarobi", "Farkhunda Zahra Naderi", "Shukria Barakzai"],
+        "answer": "Anisa Rassouli"
+      },
+      {
+        "question": "What is the name of the historic fort in Kandahar, Afghanistan, built by Alexander the Great?",
+        "options": ["Bala Hissar", "Qalat-i-Ghilji", "Arg-e-Shahi", "Qala-e-Bost"],
+        "answer": "Qalat-i-Ghilji"
+      },
+      {
+        "question": "Which Afghan city is famous for its sweet pomegranates?",
+        "options": ["Kabul", "Herat", "Kandahar", "Mazar-i-Sharif"],
+        "answer": "Kabul"
+      },
+      {
+        "question": "What is the name of the traditional Afghan hat worn by men, often associated with Pashtuns?",
+        "options": ["Pakol", "Turbans", "Kufi", "Fez"],
+        "answer": "Pakol"
+      },
+      {
+        "question": "Which famous Afghan singer is known as the 'Voice of Afghanistan'?",
+        "options": ["Farhad Darya", "Ahmad Zahir", "Mahwash", "Seeta Qasemie"],
+        "answer": "Farhad Darya"
+      },
+      {
+        "question": "What is the national flower of Afghanistan?",
+        "options": ["Tulip", "Rose", "Poppy", "Sunflower"],
+        "answer": "Tulip"
+      },
+      {
+        "question": "What is the name of the famous pass in the Hindu Kush mountains that connects Afghanistan with Pakistan?",
+        "options": ["Khyber Pass", "Bolan Pass", "Wakhjir Pass", "Gomal Pass"],
+        "answer": "Khyber Pass"
+      },
+      {
+        "question": "Which river is known as the 'Helmand' in Afghanistan?",
+        "options": ["Indus", "Kabul River", "Amu Darya", "Hari River"],
+        "answer": "Hari River"
+      },
+      {
+        "question": "What is the capital city of the United States?",
+        "options": ["New York City", "Los Angeles", "Washington D.C.", "Chicago"],
+        "answer": "Washington D.C."
+      },
+      {
+        "question": "Which river is the longest in the United States?",
+        "options": ["Mississippi River", "Colorado River", "Ohio River", "Missouri River"],
+        "answer": "Mississippi River"
+      },
+      {
+        "question": "Which mountain range runs along the western coast of the United States?",
+        "options": ["Rocky Mountains", "Appalachian Mountains", "Sierra Nevada", "Cascade Range"],
+        "answer": "Sierra Nevada"
+      },
+      {
+        "question": "What is the tallest mountain peak in the contiguous United States?",
+        "options": ["Mount Rainier", "Mount Whitney", "Mount Shasta", "Mount Elbert"],
+        "answer": "Mount Whitney"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Sunshine State'?",
+        "options": ["California", "Florida", "Texas", "Arizona"],
+        "answer": "Florida"
+      },
+      {
+        "question": "Who was the first President of the United States?",
+        "options": ["Thomas Jefferson", "John Adams", "George Washington", "Abraham Lincoln"],
+        "answer": "George Washington"
+      },
+      {
+        "question": "Which U.S. city is known as the 'Big Apple'?",
+        "options": ["Chicago", "Los Angeles", "Miami", "New York City"],
+        "answer": "New York City"
+      },
+      {
+        "question": "Which river forms part of the border between the United States and Mexico?",
+        "options": ["Rio Grande", "Missouri River", "Columbia River", "Potomac River"],
+        "answer": "Rio Grande"
+      },
+      {
+        "question": "What is the nickname of the United States national anthem?",
+        "options": ["The Star-Spangled Banner", "God Bless America", "America the Beautiful", "This Land Is Your Land"],
+        "answer": "The Star-Spangled Banner"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Golden State'?",
+        "options": ["Florida", "California", "Nevada", "Colorado"],
+        "answer": "California"
+      },
+      {
+        "question": "Which city is considered the birthplace of jazz music in the United States?",
+        "options": ["Chicago", "New York City", "Los Angeles", "New Orleans"],
+        "answer": "New Orleans"
+      },
+      {
+        "question": "In which year did the United States declare its independence from Great Britain?",
+        "options": ["1776", "1789", "1812", "1865"],
+        "answer": "1776"
+      },
+      {
+        "question": "What is the tallest building in the United States?",
+        "options": ["Empire State Building", "Willis Tower (formerly Sears Tower)", "One World Trade Center", "Freedom Tower"],
+        "answer": "One World Trade Center"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Lone Star State'?",
+        "options": ["Texas", "Arizona", "New Mexico", "Nevada"],
+        "answer": "Texas"
+      },
+      {
+        "question": "Who wrote the Declaration of Independence?",
+        "options": ["George Washington", "John Adams", "Thomas Jefferson", "James Madison"],
+        "answer": "Thomas Jefferson"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Land of 10,000 Lakes'?",
+        "options": ["Minnesota", "Wisconsin", "Michigan", "Illinois"],
+        "answer": "Minnesota"
+      },
+      {
+        "question": "Which iconic monument in Washington D.C. honors the 16th President of the United States?",
+        "options": ["Jefferson Memorial", "Lincoln Memorial", "Washington Monument", "Martin Luther King Jr. Memorial"],
+        "answer": "Lincoln Memorial"
+      },
+      {
+        "question": "Who was the first woman to serve as the Speaker of the United States House of Representatives?",
+        "options": ["Nancy Pelosi", "Hillary Clinton", "Condoleezza Rice", "Barbara Bush"],
+        "answer": "Nancy Pelosi"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Empire State'?",
+        "options": ["New York", "Pennsylvania", "Massachusetts", "Virginia"],
+        "answer": "New York"
+      },
+      {
+        "question": "Who assassinated President John F. Kennedy?",
+        "options": ["Lee Harvey Oswald", "John Wilkes Booth", "James Earl Ray", "Sirhan Sirhan"],
+        "answer": "Lee Harvey Oswald"
+      },
+      {
+        "question": "What is the national bird of the United States?",
+        "options": ["Eagle", "Turkey", "Hawk", "Falcon"],
+        "answer": "Eagle"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Grand Canyon State'?",
+        "options": ["Arizona", "Utah", "Colorado", "New Mexico"],
+        "answer": "Arizona"
+      },
+      {
+        "question": "Who was the first African American President of the United States?",
+        "options": ["Barack Obama", "Martin Luther King Jr.", "Colin Powell", "Jesse Jackson"],
+        "answer": "Barack Obama"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Show-Me State'?",
+        "options": ["Missouri", "Kansas", "Nebraska", "Oklahoma"],
+        "answer": "Missouri"
+      },
+      {
+        "question": "Who designed the famous statue 'Statue of Liberty'?",
+        "options": ["Auguste Rodin", "Frederic Auguste Bartholdi", "Michelangelo", "Leonardo da Vinci"],
+        "answer": "Frederic Auguste Bartholdi"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Garden State'?",
+        "options": ["New Jersey", "Connecticut", "Maryland", "Rhode Island"],
+        "answer": "New Jersey"
+      },
+      {
+        "question": "Which Amendment of the U.S. Constitution abolished slavery?",
+        "options": ["13th Amendment", "14th Amendment", "15th Amendment", "16th Amendment"],
+        "answer": "13th Amendment"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Green Mountain State'?",
+        "options": ["Vermont", "New Hampshire", "Maine", "Massachusetts"],
+        "answer": "Vermont"
+      },
+      {
+        "question": "Who was the first woman to be appointed to the United States Supreme Court?",
+        "options": ["Ruth Bader Ginsburg", "Sandra Day O'Connor", "Sonia Sotomayor", "Elena Kagan"],
+        "answer": "Sandra Day O'Connor"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Tar Heel State'?",
+        "options": ["North Carolina", "South Carolina", "Georgia", "Virginia"],
+        "answer": "North Carolina"
+      },
+      {
+        "question": "Which Amendment of the U.S. Constitution grants freedom of speech?",
+        "options": ["1st Amendment", "2nd Amendment", "4th Amendment", "5th Amendment"],
+        "answer": "1st Amendment"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Peach State'?",
+        "options": ["Georgia", "Alabama", "Louisiana", "Mississippi"],
+        "answer": "Georgia"
+      },
+      {
+        "question": "Who was the first American astronaut to walk on the moon?",
+        "options": ["Buzz Aldrin", "John Glenn", "Neil Armstrong", "Alan Shepard"],
+        "answer": "Neil Armstrong"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Last Frontier'?",
+        "options": ["Alaska", "Hawaii", "Montana", "Wyoming"],
+        "answer": "Alaska"
+      },
+      {
+        "question": "Which Amendment of the U.S. Constitution guarantees the right to bear arms?",
+        "options": ["2nd Amendment", "3rd Amendment", "4th Amendment", "5th Amendment"],
+        "answer": "2nd Amendment"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Constitution State'?",
+        "options": ["Connecticut", "Massachusetts", "Rhode Island", "Delaware"],
+        "answer": "Connecticut"
+      },
+      {
+        "question": "Who was the first person to sign the Declaration of Independence?",
+        "options": ["George Washington", "John Adams", "Thomas Jefferson", "John Hancock"],
+        "answer": "John Hancock"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Mount Rushmore State'?",
+        "options": ["South Dakota", "North Dakota", "Montana", "Wyoming"],
+        "answer": "South Dakota"
+      },
+      {
+        "question": "Who was the first Chief Justice of the United States?",
+        "options": ["John Jay", "John Marshall", "James Madison", "Alexander Hamilton"],
+        "answer": "John Jay"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Beehive State'?",
+        "options": ["Utah", "Idaho", "Colorado", "Nevada"],
+        "answer": "Utah"
+      },
+      {
+        "question": "Who was the first woman to run for President of the United States from a major party?",
+        "options": ["Hillary Clinton", "Elizabeth Warren", "Kamala Harris", "Victoria Woodhull"],
+        "answer": "Hillary Clinton"
+      },
+      {
+        "question": "Which Amendment of the U.S. Constitution grants equal protection under the law?",
+        "options": ["14th Amendment", "15th Amendment", "16th Amendment", "17th Amendment"],
+        "answer": "14th Amendment"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Palmetto State'?",
+        "options": ["South Carolina", "North Carolina", "Georgia", "Alabama"],
+        "answer": "South Carolina"
+      },
+      {
+        "question": "Who was the first Secretary of the Treasury of the United States?",
+        "options": ["George Washington", "Thomas Jefferson", "Alexander Hamilton", "Benjamin Franklin"],
+        "answer": "Alexander Hamilton"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Land of Enchantment'?",
+        "options": ["New Mexico", "Arizona", "Nevada", "Colorado"],
+        "answer": "New Mexico"
+      },
+      {
+        "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "options": ["Amelia Earhart", "Bessie Coleman", "Harriet Quimby", "Jacqueline Cochran"],
+        "answer": "Amelia Earhart"
+      },
+      {
+        "question": "Which Amendment of the U.S. Constitution grants the right to vote regardless of race, color, or previous condition of servitude?",
+        "options": ["15th Amendment", "16th Amendment", "17th Amendment", "19th Amendment"],
+        "answer": "15th Amendment"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Peace Garden State'?",
+        "options": ["North Dakota", "South Dakota", "Minnesota", "Iowa"],
+        "answer": "North Dakota"
+      },
+      {
+        "question": "Who was the first American woman to win the Nobel Prize in Literature?",
+        "options": ["Harper Lee", "Toni Morrison", "Louisa May Alcott", "Pearl S. Buck"],
+        "answer": "Pearl S. Buck"
+      },
+      {
+        "question": "Which U.S. state is known as the 'Volunteer State'?",
+        "options": ["Tennessee", "Kentucky", "Mississippi", "Alabama"],
+        "answer": "Tennessee"
+      },
+      {
+        "question": "What is the capital city of India?",
+        "options": ["Mumbai", "Kolkata", "New Delhi", "Chennai"],
+        "answer": "New Delhi"
+      },
+      {
+        "question": "Which river is considered the holiest river in Hinduism?",
+        "options": ["Ganges", "Yamuna", "Brahmaputra", "Godavari"],
+        "answer": "Ganges"
+      },
+      {
+        "question": "Which mountain range forms a natural boundary between India and China?",
+        "options": ["Himalayas", "Western Ghats", "Aravalli Range", "Eastern Ghats"],
+        "answer": "Himalayas"
+      },
+      {
+        "question": "What is the national animal of India?",
+        "options": ["Tiger", "Elephant", "Lion", "Leopard"],
+        "answer": "Tiger"
+      },
+      {
+        "question": "Which Indian city is famous for its annual celebration of Durga Puja?",
+        "options": ["Kolkata", "Varanasi", "Mumbai", "Chennai"],
+        "answer": "Kolkata"
+      },
+      {
+        "question": "Who is known as the 'Father of the Nation' in India?",
+        "options": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Mahatma Gandhi", "B.R. Ambedkar"],
+        "answer": "Mahatma Gandhi"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+        "options": ["Punjab", "Gujarat", "Rajasthan", "Uttar Pradesh"],
+        "answer": "Punjab"
+      },
+      {
+        "question": "What is the largest state in India by area?",
+        "options": ["Rajasthan", "Maharashtra", "Uttar Pradesh", "Madhya Pradesh"],
+        "answer": "Rajasthan"
+      },
+      {
+        "question": "What is the currency of India?",
+        "options": ["Rupee", "Taka", "Rupiah", "Dinar"],
+        "answer": "Rupee"
+      },
+      {
+        "question": "Which Indian city is known as the 'Pink City'?",
+        "options": ["Jaipur", "Udaipur", "Jodhpur", "Agra"],
+        "answer": "Jaipur"
+      },
+      {
+        "question": "Who composed the Indian national anthem 'Jana Gana Mana'?",
+        "options": ["Rabindranath Tagore", "Mahatma Gandhi", "Jawaharlal Nehru", "Subhas Chandra Bose"],
+        "answer": "Rabindranath Tagore"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of Spices'?",
+        "options": ["Kerala", "Goa", "Assam", "Karnataka"],
+        "answer": "Kerala"
+      },
+      {
+        "question": "What is the traditional attire for men in India?",
+        "options": ["Dhoti", "Sari", "Salwar Kameez", "Lehenga"],
+        "answer": "Dhoti"
+      },
+      {
+        "question": "Who was the first Prime Minister of India?",
+        "options": ["Indira Gandhi", "Jawaharlal Nehru", "Lal Bahadur Shastri", "Rajiv Gandhi"],
+        "answer": "Jawaharlal Nehru"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of Forests'?",
+        "options": ["Madhya Pradesh", "Uttarakhand", "Assam", "Himachal Pradesh"],
+        "answer": "Madhya Pradesh"
+      },
+      {
+        "question": "What is the largest city in India by population?",
+        "options": ["Mumbai", "Delhi", "Bangalore", "Kolkata"],
+        "answer": "Mumbai"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of Temples'?",
+        "options": ["Tamil Nadu", "Andhra Pradesh", "Uttar Pradesh", "Bihar"],
+        "answer": "Tamil Nadu"
+      },
+      {
+        "question": "Who was the first woman to become the President of India?",
+        "options": ["Indira Gandhi", "Sonia Gandhi", "Pratibha Patil", "Sushma Swaraj"],
+        "answer": "Pratibha Patil"
+      },
+      {
+        "question": "Which Indian city is famous for its IT industry and is known as the 'Silicon Valley of India'?",
+        "options": ["Bangalore", "Hyderabad", "Chennai", "Pune"],
+        "answer": "Bangalore"
+      },
+      {
+        "question": "Who was the founder of the Maurya Empire in ancient India?",
+        "options": ["Chandragupta Maurya", "Ashoka the Great", "Bindusara", "Chandragupta II"],
+        "answer": "Chandragupta Maurya"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of Festivals'?",
+        "options": ["Kerala", "West Bengal", "Uttar Pradesh", "Rajasthan"],
+        "answer": "West Bengal"
+      },
+      {
+        "question": "What is the national flower of India?",
+        "options": ["Lotus", "Rose", "Jasmine", "Sunflower"],
+        "answer": "Lotus"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of Lakes'?",
+        "options": ["Jammu and Kashmir", "Uttarakhand", "Himachal Pradesh", "Madhya Pradesh"],
+        "answer": "Madhya Pradesh"
+      },
+      {
+        "question": "Who is known as the 'Nightingale of India'?",
+        "options": ["Sarojini Naidu", "Lata Mangeshkar", "Indira Gandhi", "M.S. Subbulakshmi"],
+        "answer": "Sarojini Naidu"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of Kings'?",
+        "options": ["Rajasthan", "Gujarat", "Maharashtra", "Uttar Pradesh"],
+        "answer": "Rajasthan"
+      },
+      {
+        "question": "What is the largest temple in India by area?",
+        "options": ["Akshardham Temple", "Sri Ranganathaswamy Temple", "Meenakshi Temple", "Brihadeeswarar Temple"],
+        "answer": "Sri Ranganathaswamy Temple"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of White Elephants'?",
+        "options": ["Kerala", "Assam", "Himachal Pradesh", "Andhra Pradesh"],
+        "answer": "Kerala"
+      },
+      {
+        "question": "Who is known as the 'Missile Man of India'?",
+        "options": ["APJ Abdul Kalam", "Vikram Sarabhai", "Homai Vyarawalla", "Kalpana Chawla"],
+        "answer": "APJ Abdul Kalam"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+        "options": ["Punjab", "Gujarat", "Bihar", "Madhya Pradesh"],
+        "answer": "Punjab"
+      },
+      {
+        "question": "What is the national tree of India?",
+        "options": ["Banyan", "Peepal", "Neem", "Mango"],
+        "answer": "Banyan"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of the Gods'?",
+        "options": ["Uttarakhand", "Himachal Pradesh", "Jammu and Kashmir", "Sikkim"],
+        "answer": "Uttarakhand"
+      },
+      {
+        "question": "Who composed the Indian national song 'Vande Mataram'?",
+        "options": ["Bankim Chandra Chattopadhyay", "Rabindranath Tagore", "Sarojini Naidu", "Subramania Bharati"],
+        "answer": "Bankim Chandra Chattopadhyay"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of High Passes'?",
+        "options": ["Jammu and Kashmir", "Himachal Pradesh", "Uttarakhand", "Sikkim"],
+        "answer": "Jammu and Kashmir"
+      },
+      {
+        "question": "Who is known as the 'Grand Old Man of India'?",
+        "options": ["Dadabhai Naoroji", "Bal Gangadhar Tilak", "Gopal Krishna Gokhale", "Surendranath Banerjee"],
+        "answer": "Dadabhai Naoroji"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of Black Diamond'?",
+        "options": ["Jharkhand", "West Bengal", "Odisha", "Bihar"],
+        "answer": "Jharkhand"
+      },
+      {
+        "question": "Who is known as the 'Iron Man of India'?",
+        "options": ["Vallabhbhai Patel", "Jawaharlal Nehru", "B.R. Ambedkar", "Subhas Chandra Bose"],
+        "answer": "Vallabhbhai Patel"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of Thunderbolt'?",
+        "options": ["Manipur", "Mizoram", "Nagaland", "Meghalaya"],
+        "answer": "Manipur"
+      },
+      {
+        "question": "Who is known as the 'Tiger of Mysore'?",
+        "options": ["Tipu Sultan", "Hyder Ali", "Krishna Raja Wadiyar IV", "Chamaraja Wadiyar X"],
+        "answer": "Tipu Sultan"
+      },
+      {
+        "question": "Which Indian state is known as the 'Spice Garden of India'?",
+        "options": ["Kerala", "Karnataka", "Andhra Pradesh", "Tamil Nadu"],
+        "answer": "Kerala"
+      },
+      {
+        "question": "Who is known as the 'Light of Asia'?",
+        "options": ["Gautama Buddha", "Mahavira", "Ashoka the Great", "Siddhartha Gautama"],
+        "answer": "Gautama Buddha"
+      },
+      {
+        "question": "Which Indian state is known as the 'Scotland of the East'?",
+        "options": ["Meghalaya", "Arunachal Pradesh", "Nagaland", "Mizoram"],
+        "answer": "Meghalaya"
+      },
+      {
+        "question": "Who is known as the 'Father of Indian Space Program'?",
+        "options": ["Vikram Sarabhai", "Homi J. Bhabha", "Satish Dhawan", "APJ Abdul Kalam"],
+        "answer": "Vikram Sarabhai"
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of Dawn-lit Mountains'?",
+        "options": ["Arunachal Pradesh", "Sikkim", "Nagaland", "Mizoram"],
+        "answer": "Arunachal Pradesh"
+      },
+      {
+        "question": "Who is known as the 'Napoleon of India'?",
+        "options": ["Samudragupta", "Chandragupta Maurya", "Ashoka the Great", "Akbar"],
+        "answer": "Samudragupta"
+      }
+
+    
+    ]
+  }
+  

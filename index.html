@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="world.png">
+    <title>Geography MCQs</title>
+</head>
+<body>
+    <audio id="clickSound">
+        <source src="click.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+
+      <audio id="correctSound">
+        <source src="correct.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+      
+      <audio id="incorrectSound">
+        <source src="incorrect.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    
+    <div class="start-container">
+        <h1 id="welcome">Welcome to Geography MCQ Quiz</h1>
+        <p id="preface">Test your knowledge in geography with our multiple-choice quiz! 
+        Answer questions on various topics and see how well you know the world.
+        Each question has multiple choices, and you'll receive immediate feedback on your answers.
+        If you answer one question wrong the game will be over so be serious solving every question!!! 
+        Ready to challenge yourself? Click the "Start Game" button below to begin!</p>
+        <button class="start-btn">Start Game</button>
+    </div>
+    <div class="container">
+        <div class="box">
+            <h2 id="General_Geography_MCQs_h2">General Geography MCQs</h2>
+            <div class="question"></div>
+            <div class="options"></div>
+            <div class="result"></div>
+            <button class="submit-btn">Submit</button>
+            <button class="next-btn">Next</button>
+            <button class="try-again-btn" ">Try Again</button>
+        </div>
+    </div>
+    <footer>
+        Developed by: Faisal Rahimzai 2024
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
